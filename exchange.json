@@ -1,0 +1,10 @@
+{
+  "main": "test-git-design.raml",
+  "name": "test-git-design",
+  "groupId": "b4fa6218-42a2-413c-aa2b-0c61df1daede",
+  "assetId": "test-git-design",
+  "version": "1.0.0",
+  "classifier": "raml",
+  "tags": [],
+  "descriptorVersion": "1.0.0"
+}
